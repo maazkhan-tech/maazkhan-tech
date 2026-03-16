@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Maaz%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Specialist&descAlignY=58&descColor=cce4ff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer+%7C+Flutter+%26+Dart+Enthusiast;Cross-Platform+Mobile+App+Builder;REST+API+%7C+Firebase+%7C+Riverpod;Open+to+Junior+Roles+%26+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Developer;Flutter+%26+Dart+Developer;Cross-Platform+Mobile+App+Builder;REST+API+%7C+Firebase+%7C+Riverpod;Open+to+Junior+Roles+%26+Internships)](https://git.io/typing-svg)
 
 <br/>
 
