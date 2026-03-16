@@ -8,11 +8,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maaz%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazkhansoftware-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maaz%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazkhan-software-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-maazkhan--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkhan-tech)
 [![Email](https://img.shields.io/badge/Email-maazkhan.expert%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkhan.expert@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pakistan%20🇵🇰-2ea44f?style=for-the-badge)](https://github.com/maazkhan-tech)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20Flutter%20Dev-brightgreen?style=for-the-badge&logo=flutter&logoColor=white)](https://www.linkedin.com/in/maazkhansoftware-developer)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20Flutter%20Dev-brightgreen?style=for-the-badge&logo=flutter&logoColor=white)](https://www.linkedin.com/in/maazkhan-software-developer)
 
 </div>
 
@@ -197,7 +197,7 @@ I am actively looking for:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazkhansoftware-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazkhan-software-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkhan-tech)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkhan.expert@gmail.com)
 
