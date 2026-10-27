@@ -216,27 +216,4 @@ I am actively looking for:
 
 ---
 
-<!--
-===========================================
-  OPTIONAL ENHANCEMENTS — READ ME
-===========================================
 
-1. TROPHY CASE (paste below GitHub Stats):
-   https://github-profile-trophy.vercel.app/?username=maazkhan-tech&theme=tokyonight&no-frame=true&row=1&column=7
-
-2. CONTRIBUTION SNAKE ANIMATION:
-   Set up GitHub Actions to generate a snake animation of your contribution graph.
-   Guide: https://github.com/Platane/snk
-
-3. WAKATIME CODING TIME (shows hours spent coding):
-   Sign up at wakatime.com, install VS Code plugin, then add:
-   https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME
-
-4. ACTIVITY GRAPH:
-   https://github-readme-activity-graph.vercel.app/graph?username=maazkhan-tech&theme=tokyo-night
-
-5. SPOTIFY NOW PLAYING (optional fun touch):
-   https://github.com/novatorem/novatorem
-
-===========================================
--->
