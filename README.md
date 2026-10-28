@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=220&section=header&text=Maaz%20Khan&fontSize=56&fontColor=00E5FF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Android%20%26%20iOS%20Apps&descSize=20&descAlignY=60&descColor=A78BFA&animation=twinkling" alt="Maaz Khan - Flutter Developer | Android and iOS Apps" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=220&section=header&text=Maaz%20Khan&fontSize=56&fontColor=00E5FF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Android%20and%20iOS%20Apps&descSize=20&descAlignY=60&descColor=A78BFA&animation=twinkling" alt="Maaz Khan - Flutter Developer | Android and iOS Apps" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Flutter+%26+Dart+Developer;Android+%2B+iOS+apps+from+one+codebase;Firebase+%7C+REST+APIs+%7C+Riverpod;Open+for+projects+worldwide" alt="Animated text: Flutter and Dart Developer, Android and iOS apps from one codebase, Firebase, REST APIs, Riverpod, open for projects worldwide" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Flutter+and+Dart+Developer;Android+%2B+iOS+apps+from+one+codebase;Firebase+%7C+REST+APIs+%7C+Riverpod;Open+for+projects+worldwide" alt="Animated text: Flutter and Dart Developer, Android and iOS apps from one codebase, Firebase, REST APIs, Riverpod, open for projects worldwide" />
 
 <br/>
 
@@ -128,10 +128,7 @@ Users can create, edit, and delete personal notes stored in a local SQLite datab
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maazkhan-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats for maazkhan-tech: commits, stars, pull requests and issues" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maazkhan-tech&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=C9D1D9" alt="Most used programming languages on GitHub" />
-</p>
+<!-- The stats and top-languages cards were removed because the old server ran out of its GitHub token. Add them back once you have a working server. -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maazkhan-tech&hide_border=true&background=0B1020&ring=7C3AED&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=A78BFA&dates=8B949E" alt="GitHub contribution streak" />
