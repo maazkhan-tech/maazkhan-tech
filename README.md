@@ -134,11 +134,9 @@ Users can create, edit, and delete personal notes stored in a local SQLite datab
   <img src="https://streak-stats.demolab.com?user=maazkhan-tech&hide_border=true&background=0B1020&ring=7C3AED&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=A78BFA&dates=8B949E" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkhan-tech&bg_color=0B1020&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="GitHub contribution activity graph for the last 31 days" />
-</p>
+<!-- The activity graph was removed because its free server returned error 402 (over quota). -->
 
-<sub>Stats include commits to private repositories and are counted by third-party services, so they can be slow or temporarily missing.</sub>
+<sub>The streak card comes from a third-party service, so it can be slow or temporarily missing.</sub>
 
 ---
 
